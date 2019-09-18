@@ -12,7 +12,7 @@ En este trabajo se presenta un agrupamiento de series de tiempo epidemiológicas
 ### Datos de interés
 
 * La presentación de la defensa de tesis puede verse en el archivo [Presentacion](Presentación.pdf)
-* La tesis se halla en [Tesis][Tesis.pdf]
+* La tesis se halla en [Tesis](Tesis.pdf)
 * El cuaderno [Agrupamiento2019](https://nbviewer.jupyter.org/github/jbenavidesv87/epidemias05-15/blob/master/Agrupamiento2019.ipynb) contiene los experimentos computacionales simplificados de la investigación
 * El cuaderno [kMeans](https://nbviewer.jupyter.org/github/jbenavidesv87/epidemias05-15/blob/master/kMeans.ipynb) contiene un algoritmo de regresión lineal y de _k_-medias desarrollados con la intención de generar ilustraciones representativas de estos algoritmos
 * El archivo [nacional.csv](nacional.csv) contiene los registros nacionales tras la extracción y limpieza de los `PDF`s de los boletines de donde fueron extraídos
